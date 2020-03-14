@@ -36,7 +36,7 @@
  - DA#5 Wordict
  - Mysql WorkBench
 
-#### :checkerd_flag: 설계 결과물
+#### :checkered_flag: 설계 결과물
  1. DA#5 원본파일
  2. 논리데이터모델
  3. 단어사전
